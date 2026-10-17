@@ -9,6 +9,22 @@
   <img src=".github/banner.png" alt="Project Apero – a hand-drawn banner: a laptop showing two charts and a chat column" width="100%">
 </p>
 
+# Assistance Systems – Project Apero
+
+## Course context
+
+B.Sc. Artificial Intelligence (AIN-B), Deggendorf Institute of Technology.
+
+| Module code | Course | Scheduled semester |
+| --- | --- | --- |
+| AIN-B-16 | Assistance Systems | 3 |
+
+Decision support, analytics, and a Rasa chatbot. Educational course work, not a medical service. The historical repository URL uses Project-Arepo; the project is called Apero.
+
+Module details follow the [official AIN-B handbook](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-b-ws25-26.pdf) (7 September 2026 edition). Semester refers to the curriculum, not the author's completion date. See the [THD AI course map](https://github.com/THD-AI/.github/blob/main/COURSES.md) for sources and related projects. This community fork preserves the original authors, licence, and project branding.
+
+
+
 <p align="center">
   <a href="https://github.com/codespaces/new?repo=arudaev/Project-Arepo&machine=standardLinux32gb&devcontainer_path=.devcontainer/devcontainer.json">
     <img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces">
